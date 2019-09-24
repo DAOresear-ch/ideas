@@ -6,7 +6,11 @@ This aims to outline the core aspects of a DAO that are important to contributor
 
 Who is involved in the project?
 
-Are incentives aligned for all participants in the network? Does one group benefit more than another?
+Are incentives aligned for all participants in the network?
+
+Does one group benefit more than another?
+
+Is it clear how someone can contribute to the organization?
 
 ## Governance
 
@@ -14,19 +18,27 @@ Does a centralized team control the project, or is it a diverse group of contrib
 
 How do people acquire governance rights in the project?
 
-What governance rights are granted to "shareholders?"
+What governance rights are granted to token holders?
+
+What is the process for token holders to engage in governance?
+
+What percentage of token holders regularly engage in governance? (voter turnout)
 
 ## Market
 
-What is the opportunity, and who else is going after that opportunity.
+What is the opportunity?
 
 Is the market fast growing?
+
+Who else is going after that opportunity?
 
 Where does this project stand relative to other projects in the market? (leader or follower)
 
 ## Product
 
 What is the team building?
+
+What is product roadmap to improve that product (or products)?
 
 Who is it for?
 
@@ -37,6 +49,8 @@ If it is not built yet, what are the technical risks associated with developing 
 If it is built, has it been audited and does it have an ongoing and meaningful bug bounty program?
 
 Is there regulatory certainty around this product?
+
+Does value created and generated through this product return to the DAO and/or token holders?
 
 ## Product/Market Fit
 
@@ -62,7 +76,13 @@ Does the target audience have regulatory certainty around the use of this token 
 
 ## Financials
 
-Does the project have funds to support growth?
+What is the project's token? (or tokens)?
+
+What is the purpose of that token (or tokens)?
+
+What is the current outstanding supply of that token (or tokens)?
+
+What is the supply schedule of that token (or tokens)?
 
 Does the project's token have liquidity on major exchanges?
 
@@ -71,6 +91,7 @@ Does the project engage with exchanges and data analysis firms to provide accura
 Is it easy for users and contributors to see the financial data of the project?
 
 Is the price of the project's token tied to the project's ability to fund development?
+- if not, how does the project fund development?
 
 What would be the outcome of the project if the price of the token went up, and what would happen if it went down?
 
@@ -80,11 +101,11 @@ Based on all the above metrics, is the project over or under valued?
 
 What would be an appropriate price target for the project?
 
-How might achieving milestones on the project's roadmap affect that valuation?
+How might achieving milestones on the project's current roadmap affect that valuation?
 
 ## Suggestions for improvement
 
-Things the project could do to align incentives for contributors, improve product/market fit, and increase the value of the token.
+Things the project could do to align incentives for contributors, improve governance engagement/turnout, improve product/market fit, and ultimately increase the value of the token.
 
 
 
