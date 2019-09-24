@@ -34,6 +34,8 @@ Does it work?
 
 If it is not built yet, what are the technical risks associated with developing it?
 
+If it is built, has it been audited and does it have an ongoing and meaningful bug bounty program?
+
 Is there regulatory certainty around this product?
 
 ## Product/Market Fit
