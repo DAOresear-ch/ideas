@@ -72,6 +72,14 @@ Is the price of the project's token tied to the project's ability to fund develo
 
 What would be the outcome of the project if the price of the token went up, and what would happen if it went down?
 
+## Valuation
+
+Based on all the above metrics, is the project over or under valued?
+
+What would be an appropriate price target for the project?
+
+How might achieving milestones on the project's roadmap affect that valuation?
+
 ## Suggestions for improvement
 
 Things the project could do to align incentives for contributors, improve product/market fit, and increase the value of the token.
