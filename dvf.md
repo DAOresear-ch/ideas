@@ -20,6 +20,11 @@ Does one group benefit more than another?
 Can someone outside the DAO contribute?
 - If so, is that process clear, simple, and incentive aligned? 
 
+Is there a steady stream of new contributors?
+- if so, do they stick around or do they leave?
+
+What is average contributor lifetime?
+
 <br>
 
 ## Governance
@@ -50,14 +55,14 @@ If "whoever builds it" is used
 
 ## Market
 
-What is the purpose of the DAO and/or any products or services it offers?
+What is the purpose of the DAO and/or any products or services it offers? (use case)
 
-What is the target market? (use case)
+What is the target market? (users)
 
-How fast is the market growing? (how many people want what the DAO does or is)
+How fast is the market growing? (is user adoption increasing)
 
 Who else is in this market?
-- What are the alteratives to get the same features/services as this DAO?
+- What alteratives are available to get the same features/services as this DAO?
 - Are there other DAOs in this market?
 
 Where does this project stand relative to other projects in the market? (leader or follower)
@@ -66,54 +71,21 @@ Where does this project stand relative to other projects in the market? (leader 
 
 ## Token
 
-What are the DAO's tokens?
-- What does each token do?
-- Who/what controls the minting and burning of each token?
-- Are tokens tradeable or assigned to specific addresses?
-
-What is the DAO for and/or what does the DAO do?
-
-What is product roadmap to improve that product (or products)?
-
-Who is it for?
-
-Does it work?
-
-If it is not built yet, what are the technical risks associated with developing it?
-
-If it is built, has it been audited and does it have an ongoing and meaningful bug bounty program?
-
-Is there regulatory certainty around this product?
-
-Does value created and generated through this product return to the DAO and/or token holders?
-
-## Product/Market Fit
-
-Does the product have users?
-
-Do those users have options to use other products?
-
-What is the growth strategy to attract more users?
-
-Once people are using the product or engaging in the ecosystem do they continue doing so? (churn)
-
-## Product/Market/Token Fit
-
-Does the project's token have utility in (and is it required for) the product?
-
-Are people using the token?
-
-Is the token easy for users to acquire (liquidity)?
-
-Are people holding the token, or just temporarily exchanging it to access a service?
-
-Does the target audience have regulatory certainty around the use of this token with the product?
-
-## Financials
-
 What is the project's token? (or tokens)?
 
 What is the purpose of that token (or tokens)?
+
+Are tokens tradeable or assigned to specific addresses?
+- If tokens trade, how is price discovery achieved?
+  - open markets
+  - bonding curve
+  - negotiations
+  - price pegged to another asset
+  - other
+- If tokens trade, what is the current token price?
+- If tokens trade, how easy is it to buy and sell the DAO's tokens (liquidity)
+
+Who/what controls the minting and burning of each token?
 
 What is the current outstanding supply of that token (or tokens)?
 
@@ -125,35 +97,39 @@ Does the project engage with exchanges and data analysis firms to provide accura
 
 Is it easy for users and contributors to see the financial data of the project?
 
+How does value (and price action) created by the DAO's token return to members/contributors of the DAO?
+
 Is the price of the project's token tied to the project's ability to fund development?
 - if not, how does the project fund development?
 
+What are the drivers of "value" to the DAO's token or tokens?
+
+What is "product roadmap" to drive more value to the DAO's token or tokens?
+
+What is the "growth strategy" to drive more "users" to buy, hold, or use the DAO's tokens?
+
 What would be the outcome of the project if the price of the token went up, and what would happen if it went down?
+
+What is the liklihood that the DAO's token could be classified as a security?
+- If so, in which jurisdictions?
+
+Is there regulatory certainty around the DAO and it's tokens?
+- If so, in which jurisdictions?
+
+<br>
 
 ## Valuation
 
-Based on all the above metrics, is the project over or under valued?
+Based on all the above metrics, is the DAO's token (or tokens) over or under valued?
 
-What would be an appropriate price target for the project?
+How might achieving milestones on the project's product/growth roadmap affect that valuation?
 
-How might achieving milestones on the project's current roadmap affect that valuation?
+What would be an appropriate price target for the DAO's token (or tokens)?
 
-## Suggestions for improvement
+What would be an appropriate price target if the DAO achieves various milestones on the project's product/growth roadmap?
+
+<br>
+
+## Strategic Suggestions
 
 Things the project could do to align incentives for contributors, improve governance engagement/turnout, improve product/market fit, and ultimately increase the value of the token.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
