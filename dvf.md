@@ -104,6 +104,12 @@ Does the project engage with exchanges and data analysis firms to provide accura
 
 Is it easy for users and contributors to see the financial data of the project?
 
+What is the daily transaction volume of the token?
+
+What does the token's hodl waves look like?
+
+What is the NVT (Network Value to Token Value)?
+
 How does value (and price action) created by the DAO's token return to members/contributors of the DAO?
 
 Is the price of the project's token tied to the project's ability to fund development?
