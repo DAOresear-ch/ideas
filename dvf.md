@@ -1,42 +1,77 @@
-# Rough Valuation Framework
+# DAO Valuation Framework (WIP)
 
 This aims to outline the core aspects of a DAO that are important to contributors (financial or talent)
 
-## Team
+<br>
 
-Who is involved in the project?
+## Team / Community
 
-Are incentives aligned for all participants in the network?
+Who contributes to the DAO?
+- founders
+- community members
+- investors / speculators
+
+How are tokens distributed between contributors?
+
+Are incentives aligned for all contributors?
 
 Does one group benefit more than another?
 
-Is it clear how someone can contribute to the organization?
+Can someone outside the DAO contribute?
+- If so, is that process clear, simple, and incentive aligned? 
+
+<br>
 
 ## Governance
 
-Does a centralized team control the project, or is it a diverse group of contributors?
+How do decisions get made?
+- voting?
+- rough consensus? 
+- whoever builds it?
+- other things that are TBD?
 
-How do people acquire governance rights in the project?
+If token voting is used:
+- Who controls voting tokens?
+- How are those tokens distributed between the DAO's contributors?
+- What governance rights are granted to token holders?
+- What is the process for token holders to engage in governance?
+- What percentage of token holders regularly engage in governance? (voter turnout)
 
-What governance rights are granted to token holders?
+If rough consensus is used?
+- Which group of contributors has the most influence over the community?
+- Is there a clear process in place to acheive rough consensus?
+- Are decisions made in the open, or in a "room where it happens" and then revealed?
 
-What is the process for token holders to engage in governance?
+If "whoever builds it" is used
+- What is the incentive for people to build things for the DAO?
+- Can anyone build things for the DAO, or does a certain person or group control the codebase?
 
-What percentage of token holders regularly engage in governance? (voter turnout)
+<br>
 
 ## Market
 
-What is the opportunity?
+What is the purpose of the DAO and/or any products or services it offers?
 
-Is the market fast growing?
+What is the target market? (use case)
 
-Who else is going after that opportunity?
+How fast is the market growing? (how many people want what the DAO does or is)
+
+Who else is in this market?
+- What are the alteratives to get the same features/services as this DAO?
+- Are there other DAOs in this market?
 
 Where does this project stand relative to other projects in the market? (leader or follower)
 
-## Product
+<br>
 
-What is the team building?
+## Token
+
+What are the DAO's tokens?
+- What does each token do?
+- Who/what controls the minting and burning of each token?
+- Are tokens tradeable or assigned to specific addresses?
+
+What is the DAO for and/or what does the DAO do?
 
 What is product roadmap to improve that product (or products)?
 
