@@ -6,6 +6,7 @@ This aims to outline the core aspects of a DAO that are important to contributor
 
 ## Team / Community
 
+```
 Who contributes to the DAO?
 - founders
 - community members
@@ -24,11 +25,13 @@ Is there a steady stream of new contributors?
 - if so, do they stick around or do they leave?
 
 What is average contributor lifetime?
+```
 
 <br>
 
 ## Governance
 
+```
 How do decisions get made?
 - voting?
 - rough consensus? 
@@ -50,11 +53,13 @@ If rough consensus is used?
 If "whoever builds it" is used
 - What is the incentive for people to build things for the DAO?
 - Can anyone build things for the DAO, or does a certain person or group control the codebase?
+```
 
 <br>
 
 ## Market
 
+```
 What is the purpose of the DAO and/or any products or services it offers? (use case)
 
 What is the target market? (users)
@@ -66,12 +71,14 @@ Who else is in this market?
 - Are there other DAOs in this market?
 
 Where does this project stand relative to other projects in the market? (leader or follower)
+```
 
 <br>
 
 ## Token
 
-What is the project's token? (or tokens)?
+```
+What is the DAO's token? (or tokens)?
 
 What is the purpose of that token (or tokens)?
 
@@ -115,11 +122,13 @@ What is the liklihood that the DAO's token could be classified as a security?
 
 Is there regulatory certainty around the DAO and it's tokens?
 - If so, in which jurisdictions?
+```
 
 <br>
 
 ## Valuation
 
+```
 Based on all the above metrics, is the DAO's token (or tokens) over or under valued?
 
 How might achieving milestones on the project's product/growth roadmap affect that valuation?
@@ -127,6 +136,7 @@ How might achieving milestones on the project's product/growth roadmap affect th
 What would be an appropriate price target for the DAO's token (or tokens)?
 
 What would be an appropriate price target if the DAO achieves various milestones on the project's product/growth roadmap?
+```
 
 <br>
 
